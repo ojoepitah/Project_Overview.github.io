@@ -1,4 +1,4 @@
-title: Cargo Manchester Sales Performance
+title: CarGo Manchester Sales Performance
 logo: Dashboard_Screenshot.jpeg
 description: Designed and queried a relational sales database using SQL Server. Implemented joins, CTEs, window functions, and time-based aggregations to analyse revenue trends, top-performing products, and customer behaviour.
 #show_downloads: true
