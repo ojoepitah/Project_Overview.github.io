@@ -110,28 +110,28 @@ The analysis indicates that while sales growth was strong across all dealerships
 
 ### Analysis Findings
 
-1) **Strong Year-over-Year Sales Growth:**
+**1) Strong Year-over-Year Sales Growth:**
 Total sales increased by $70.8M compared to the previous year, representing a 23.59% YOY growth rate, indicating a significant overall improvement in sales performance.
 
-2) **Decline in Average Vehicle Price:**
+**2) Decline in Average Vehicle Price:**
 Despite the increase in total sales, the average selling price declined by 0.79%, suggesting that revenue growth was primarily driven by higher sales volume rather than increased pricing.
 
-3) **Increase in Units Sold:**
+**3) Increase in Units Sold:**
 A total of 2.62K more vehicles were sold compared to last year, reflecting a 24.57% increase in units sold, reinforcing the strong demand observed during the year.
 
-4) **Weekly Sales Performance Peaks:**
+**4) Weekly Sales Performance Peaks:**
 Week 37 recorded the highest sales of the year, generating more revenue than any other week. Sales volumes in weeks 46, 48, 49, and 50 were also comparably high. This pattern suggests the presence of effective sales strategies, promotions, or market conditions during these periods that could be analysed and replicated to drive future growth.
 
-5) **Body Style Performance:**
+**5) Body Style Performance:**
 SUVs were the top-performing body style, contributing nearly $100M in total sales, followed closely by Hatchbacks with approximately $83M. In contrast, Hardtops underperformed, indicating a potential need to reassess inventory strategy or customer demand for this category.
 
-6) **Colour Preferences:**
+**6) Colour Preferences:**
 Pale White vehicles consistently generated the highest sales across both years, highlighting a clear customer preference. Conversely, Red vehicles underperformed, suggesting lower demand or potential pricing and marketing challenges.
 
-7) **Dealer-Level Performance Variation:**
+**7) Dealer-Level Performance Variation:**
 Dealers in Austin and Janesville achieved the strongest sales performance during the year. In contrast, Middlestown, Pasco, and Greensville lagged behind, indicating opportunities for targeted support, strategy optimisation, or resource reallocation in these regions.
 
-8) **Manufacturer Sales Trends:**
+**8) Manufacturer Sales Trends:**
 Chevrolet emerged as the top-selling brand, followed closely by Dodge, a trend consistent across most dealerships. However, in Greensville, Middlestown, and Scottside, Ford outperformed Dodge, highlighting regional differences in brand preference.
 
 **9) Pricing vs Volume Dynamics Across Dealerships:**
@@ -159,7 +159,7 @@ Provide targeted support to Middlestown, Pasco, and Greensville dealerships thro
 
    These regions consistently underperformed relative to others, indicating opportunities for improvement through targeted intervention.
 
-5) **Leverage Best-Practice Dealerships as Performance Benchmarks:**
+**5) Leverage Best-Practice Dealerships as Performance Benchmarks:**
 Use high-performing dealerships such as Austin and Janesville as benchmarks to:
    - Identify successful sales tactics
    - Share best practices across other regions
@@ -167,10 +167,10 @@ Use high-performing dealerships such as Austin and Janesville as benchmarks to:
 
    These dealerships demonstrated strong and consistent sales performance, making them ideal reference points for improving overall business results.
 
-**6) Adjust Brand Strategy by Region:
+**6) Adjust Brand Strategy by Region:**
 Align manufacturer partnerships and promotional strategies with regional brand preferences, particularly in areas where Ford outperforms Dodge, such as Greensville, Middlestown, and Scottside. Brand performance varies by region, suggesting that a uniform national strategy may not be optimal.
 
-**8) Balance Sales Volume With Salesperson Effectiveness:**
+**7) Balance Sales Volume With Salesperson Effectiveness:**
 Investigate whether dealerships with declining average prices are compensating through discount-driven sales and assess the role of salesperson effectiveness in these outcomes. Wide variation in YOY average price growth suggests differences in negotiation strategies, discounting behaviour, and sales execution.
 
 ## Tools & Technologies Used
