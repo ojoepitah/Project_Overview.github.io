@@ -134,7 +134,7 @@ Dealers in Austin and Janesville achieved the strongest sales performance during
 8) **Manufacturer Sales Trends:**
 Chevrolet emerged as the top-selling brand, followed closely by Dodge, a trend consistent across most dealerships. However, in Greensville, Middlestown, and Scottside, Ford outperformed Dodge, highlighting regional differences in brand preference.
 
-9) **Pricing vs Volume Dynamics Across Dealerships:**
+**9) Pricing vs Volume Dynamics Across Dealerships:**
 All dealerships recorded positive YOY sales growth ranging from 7.54% to 32.39%. However, YOY average price growth varied significantly, ranging from -7.85% to 4.11%. This suggests that some dealerships achieved higher sales volumes by selling at lower average prices, potentially reflecting differences in sales strategies, discounting practices, or salesperson effectiveness.
 
 ## Recommendations
@@ -142,16 +142,16 @@ Based on this analysis, I recommend that by combining inventory optimisation, pr
 
 Here’s how you can make this happen;
 
-1) **Replicate High-Performing Weekly Sales Strategies:**
+**1) Replicate High-Performing Weekly Sales Strategies:**
 Analyse sales activities, promotions, staffing levels, and inventory availability during Week 37 and Weeks 46, 48, 49, and 50, then replicate successful tactics during lower-performing periods. These weeks consistently generated the highest revenue, indicating that specific operational or promotional factors positively influenced sales performance.
 
-2) **Optimise Pricing Strategy Without Sacrificing Volume:**
+**2) Optimise Pricing Strategy Without Sacrificing Volume:**
 Review discounting and pricing practices across dealerships, particularly where average prices declined despite strong sales growth, to identify opportunities to improve margins without reducing demand. Sales growth was driven primarily by increased units sold rather than higher prices, suggesting room to refine pricing strategies for better profitability.
 
-3) **Align Marketing Efforts With Customer Colour Preferences:**
+**3) Align Marketing Efforts With Customer Colour Preferences:**
 Focus marketing campaigns and showroom availability on high-demand colours, particularly Pale White, while evaluating whether underperforming colours such as Red require pricing adjustments or reduced stock levels. Colour-based sales analysis shows consistent customer preferences that can be leveraged to improve conversion rates and reduce slow-moving inventory.
 
-4) **Strengthen Underperforming Dealer Regions:**
+**4) Strengthen Underperforming Dealer Regions:**
 Provide targeted support to Middlestown, Pasco, and Greensville dealerships through:
    - Sales training
    - Performance benchmarking
@@ -167,10 +167,10 @@ Use high-performing dealerships such as Austin and Janesville as benchmarks to:
 
    These dealerships demonstrated strong and consistent sales performance, making them ideal reference points for improving overall business results.
 
-7) Adjust Brand Strategy by Region:
+**6) Adjust Brand Strategy by Region:
 Align manufacturer partnerships and promotional strategies with regional brand preferences, particularly in areas where Ford outperforms Dodge, such as Greensville, Middlestown, and Scottside. Brand performance varies by region, suggesting that a uniform national strategy may not be optimal.
 
-8) Balance Sales Volume With Salesperson Effectiveness:
+**8) Balance Sales Volume With Salesperson Effectiveness:**
 Investigate whether dealerships with declining average prices are compensating through discount-driven sales and assess the role of salesperson effectiveness in these outcomes. Wide variation in YOY average price growth suggests differences in negotiation strategies, discounting behaviour, and sales execution.
 
 ## Tools & Technologies Used
