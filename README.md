@@ -19,22 +19,22 @@ The analysis is based on a structured car sales dataset capturing detailed trans
 ### Key Data Fields
 The dataset includes a wide range of attributes grouped into the following categories:
 
- - **Sales & Transaction Details**
+#### Sales & Transaction Details
 
 | Car_id | Date | Price ($) | Units sold (derived) |
 |--------|------|-----------|----------------------|
 
- - **Customer Attributes**
+#### Customer Attributes
 
 | Customer Name| Gender| Annual Income| Phone|
 |--------------|-------|--------------|------|
 
- - **Vehicle Information**
+#### Vehicle Information
 
 | Company| Model| Body Style| Engine| Transmission| Color|
 |--------|------|-----------|-------|-------------|------|
 
- - **Dealer & Location Details**
+#### Dealer & Location Details
 
 |Dealer_Name| Dealer_No| Dealer_Region|
 |--------|------|-----------|
