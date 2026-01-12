@@ -56,7 +56,39 @@ I had to remove all zero values from budget and revenue columns because they wou
 ## References
 - SQL for Businesses by werty.
 
+Key Data Fields
+
+The dataset includes a wide range of attributes grouped into the following categories:
 
 
+### Relationship Configuration
+
+- Relationship: Date[Date] → Car Sales[Date]
+- Cardinality: Many-to-One
+- Cross-filter direction: Single
+
+This modelling approach enables accurate time-based calculations while avoiding ambiguity and performance issues.
+
+
+## Recommendations
+
+### Summarized Recommendation
+By combining inventory optimisation, pricing refinement, and region-specific strategies, the business can sustain sales growth while improving profitability and operational consistency across dealerships.
+
+1. Replicate High-Performing Weekly Sales Strategies:
+Analyse sales activities, promotions, staffing levels, and inventory availability during Week 37 and Weeks 46, 48, 49, and 50, then replicate successful tactics during lower-performing periods.
+These weeks consistently generated the highest revenue, indicating that specific operational or promotional factors positively influenced sales performance.
+
+2. Optimise Pricing Strategy Without Sacrificing Volume
+Review discounting and pricing practices across dealerships, particularly where average prices declined despite strong sales growth, to identify opportunities to improve margins without reducing demand.
+Sales growth was driven primarily by increased units sold rather than higher prices, suggesting room to refine pricing strategies for better profitability.
+
+4. Strengthen Underperforming Dealer Regions: 
+Provide targeted support to Middlestown, Pasco, and Greensville dealerships through:
+    - Sales training
+    - Performance benchmarking
+    - Localised promotional strategies
+
+    These regions consistently underperformed relative to others, indicating opportunities for improvement through targeted intervention.
 
 
